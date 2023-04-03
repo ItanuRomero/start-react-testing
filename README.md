@@ -83,3 +83,15 @@ import '@testing-library/jest-dom'
 Then on the jest.config.ts, add the setup file in the setupFilesAfterEnv property
 
 (you need to rerun the npm test to apply the changes on the setup)
+
+# If you want to use it as is
+
+```
+git clone https://github.com/ItanuRomero/start-react-testing.git
+
+cd start-react-testing
+
+npm install
+
+npm test
+```
